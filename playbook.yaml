@@ -1,0 +1,4 @@
+- import_playbook: task/acl.yaml
+- import_playbook: task/ospf.yaml
+- import_playbook: task/iproute.yaml
+- import_playbook: task/Backups.yaml
